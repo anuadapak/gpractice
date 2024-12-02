@@ -1,1 +1,2 @@
 hello from gitb2
+edited text
